@@ -22,10 +22,7 @@ So I made this to ease my mahjong experience
 ![{A4A76C9A-6F01-4E6E-81FA-1D57D2CC65BF}](https://github.com/user-attachments/assets/c406c36a-8805-407f-8eec-fb8895709ef1)
 
 ## How to use
-You can run it in anything that can compile python
-- ![https://www.programiz.com/python-programming/online-compiler/](https://www.programiz.com/python-programming/online-compiler/)
-- ![https://www.onlinegdb.com/online_python_compiler](https://www.onlinegdb.com/online_python_compiler)
-- ![Google Colab](https://colab.research.google.com/)
+You can run it in anything that can compile respective programming language
 
 ## Last but not least
 Enjoy your mahjong!
