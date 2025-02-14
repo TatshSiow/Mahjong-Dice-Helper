@@ -32,7 +32,7 @@ def calculate_stacks():
     print(f"Dice 1: {roll1}")
     print(f"Dice 2: {roll2}")
     print(f"Total : {position_total}")
-    print(f"***Position rolled to {position}***")
+    print(f"*** Position rolled to {position} ***")
     print()
     print(f"--- Second throw ---")
     print(f"Dice 1: {stack_roll1}")
