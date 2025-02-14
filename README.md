@@ -26,8 +26,8 @@ You can run it in anything that can compile respective programming language
 
 Temporarily links to use:
 
-![https://www.programiz.com/online-compiler/7iJzOn21hPwmB](https://www.programiz.com/online-compiler/7iJzOn21hPwmB)\
-![https://www.programiz.com/online-compiler/95xC4RGq0Vumw](https://www.programiz.com/online-compiler/95xC4RGq0Vumw)
+[https://www.programiz.com/online-compiler/7iJzOn21hPwmB](https://www.programiz.com/online-compiler/7iJzOn21hPwmB)\
+[https://www.programiz.com/online-compiler/95xC4RGq0Vumw](https://www.programiz.com/online-compiler/95xC4RGq0Vumw)
 
 
 ## Last but not least
