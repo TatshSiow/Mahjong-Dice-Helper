@@ -1,6 +1,6 @@
 > [!TIP]
 > This is made for 4 Players Mahjong\
-> Based on Malaysia Cultural Mahjong
+> Based on Malaysia Traditional Mahjong
 > 
 # Mahjong-Dice-Helper
 Let me help you with your frustrating Mahjong dice counting!
