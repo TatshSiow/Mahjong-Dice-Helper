@@ -23,7 +23,8 @@ So I made this to ease my mahjong experience
 
 
 ## Sample
-![{A4A76C9A-6F01-4E6E-81FA-1D57D2CC65BF}](https://github.com/user-attachments/assets/c406c36a-8805-407f-8eec-fb8895709ef1)
+![{63A0BEA0-AFBE-4BE9-AA2F-5FBC3DD22DA0}](https://github.com/user-attachments/assets/269833c7-708b-4651-8f16-2b0298b4f3d9)
+
 
 ## How to use
 You can run it in anything that can compile respective programming language
